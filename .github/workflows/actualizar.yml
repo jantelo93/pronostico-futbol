@@ -2,7 +2,7 @@ name: Actualizar pronosticos
 
 on:
   schedule:
-    - cron: '0 11 * * *'      # todos los dias, 11:00 UTC = 07:00 en Bolivia
+    - cron: '0 11,17,23,5 * * *'   # 07:00, 13:00, 19:00 y 01:00 hora de Bolivia
   workflow_dispatch:           # tambien permite ejecutarlo a mano desde GitHub
 
 permissions:
