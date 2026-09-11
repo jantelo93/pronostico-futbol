@@ -1,0 +1,52 @@
+name: Actualizar pronosticos
+
+on:
+  schedule:
+    - cron: '0 11 * * *'      # todos los dias, 11:00 UTC = 07:00 en Bolivia
+  workflow_dispatch:           # tambien permite ejecutarlo a mano desde GitHub
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Traer el codigo
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar librerias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar el modelo
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: python actualizar.py
+
+      - name: Preparar la publicacion
+        run: |
+          mkdir -p _publicar
+          cp index.html _publicar/index.html
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir el dashboard
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _publicar
+
+      - name: Publicar
+        uses: actions/deploy-pages@v4
