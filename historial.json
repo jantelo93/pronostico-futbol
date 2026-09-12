@@ -1,0 +1,2018 @@
+{
+ "558581": {
+  "an": "Bologna FC 1909",
+  "comp": "ITA",
+  "d": "2026-10-11",
+  "gl": 0.88,
+  "gv": 1.5,
+  "hn": "US Lecce",
+  "p": [
+   0.1871,
+   0.3115,
+   0.5014
+  ],
+  "real": null
+ },
+ "558582": {
+  "an": "Parma Calcio 1913",
+  "comp": "ITA",
+  "d": "2026-10-10",
+  "gl": 2.49,
+  "gv": 0.63,
+  "hn": "FC Internazionale Milano",
+  "p": [
+   0.7879,
+   0.158,
+   0.0542
+  ],
+  "real": null
+ },
+ "558585": {
+  "an": "AS Roma",
+  "comp": "ITA",
+  "d": "2026-10-11",
+  "gl": 1.37,
+  "gv": 1.3,
+  "hn": "Como 1907",
+  "p": [
+   0.3651,
+   0.3059,
+   0.329
+  ],
+  "real": null
+ },
+ "558586": {
+  "an": "Frosinone Calcio",
+  "comp": "ITA",
+  "d": "2026-10-10",
+  "gl": 2.1,
+  "gv": 0.92,
+  "hn": "SSC Napoli",
+  "p": [
+   0.64,
+   0.2226,
+   0.1374
+  ],
+  "real": null
+ },
+ "558588": {
+  "an": "ACF Fiorentina",
+  "comp": "ITA",
+  "d": "2026-10-10",
+  "gl": 1.22,
+  "gv": 1.37,
+  "hn": "Genoa CFC",
+  "p": [
+   0.3071,
+   0.3117,
+   0.3811
+  ],
+  "real": null
+ },
+ "558589": {
+  "an": "Cagliari Calcio",
+  "comp": "ITA",
+  "d": "2026-09-19",
+  "gl": 1.46,
+  "gv": 1.1,
+  "hn": "Udinese Calcio",
+  "p": [
+   0.4345,
+   0.3092,
+   0.2564
+  ],
+  "real": null
+ },
+ "558590": {
+  "an": "Genoa CFC",
+  "comp": "ITA",
+  "d": "2026-09-20",
+  "gl": 1.17,
+  "gv": 1.15,
+  "hn": "Parma Calcio 1913",
+  "p": [
+   0.332,
+   0.3404,
+   0.3276
+  ],
+  "real": null
+ },
+ "558591": {
+  "an": "SSC Napoli",
+  "comp": "ITA",
+  "d": "2026-09-20",
+  "gl": 1.08,
+  "gv": 1.65,
+  "hn": "ACF Fiorentina",
+  "p": [
+   0.2214,
+   0.2848,
+   0.4938
+  ],
+  "real": null
+ },
+ "558592": {
+  "an": "Como 1907",
+  "comp": "ITA",
+  "d": "2026-09-20",
+  "gl": 0.95,
+  "gv": 2.05,
+  "hn": "Frosinone Calcio",
+  "p": [
+   0.142,
+   0.2336,
+   0.6244
+  ],
+  "real": null
+ },
+ "558593": {
+  "an": "FC Internazionale Milano",
+  "comp": "ITA",
+  "d": "2026-09-19",
+  "gl": 1.3,
+  "gv": 1.49,
+  "hn": "AS Roma",
+  "p": [
+   0.3073,
+   0.2959,
+   0.3967
+  ],
+  "real": null
+ },
+ "558594": {
+  "an": "SS Lazio",
+  "comp": "ITA",
+  "d": "2026-09-19",
+  "gl": 0.84,
+  "gv": 2.09,
+  "hn": "Venezia FC",
+  "p": [
+   0.1163,
+   0.2247,
+   0.659
+  ],
+  "real": null
+ },
+ "558595": {
+  "an": "Atalanta BC",
+  "comp": "ITA",
+  "d": "2026-09-20",
+  "gl": 1.46,
+  "gv": 1.14,
+  "hn": "Juventus FC",
+  "p": [
+   0.4273,
+   0.3068,
+   0.266
+  ],
+  "real": null
+ },
+ "558596": {
+  "an": "US Sassuolo Calcio",
+  "comp": "ITA",
+  "d": "2026-09-18",
+  "gl": 1.42,
+  "gv": 1.79,
+  "hn": "AC Monza",
+  "p": [
+   0.2862,
+   0.2713,
+   0.4425
+  ],
+  "real": null
+ },
+ "558597": {
+  "an": "US Lecce",
+  "comp": "ITA",
+  "d": "2026-09-20",
+  "gl": 2.01,
+  "gv": 0.69,
+  "hn": "AC Milan",
+  "p": [
+   0.6823,
+   0.2258,
+   0.0919
+  ],
+  "real": null
+ },
+ "558598": {
+  "an": "Torino FC",
+  "comp": "ITA",
+  "d": "2026-09-19",
+  "gl": 1.51,
+  "gv": 1.07,
+  "hn": "Bologna FC 1909",
+  "p": [
+   0.4575,
+   0.3023,
+   0.2402
+  ],
+  "real": null
+ },
+ "558599": {
+  "an": "Bologna FC 1909",
+  "comp": "ITA",
+  "d": "2026-09-13",
+  "gl": 1.6,
+  "gv": 0.98,
+  "hn": "SSC Napoli",
+  "p": [
+   0.507,
+   0.2927,
+   0.2004
+  ],
+  "real": null
+ },
+ "558600": {
+  "an": "AC Milan",
+  "comp": "ITA",
+  "d": "2026-09-12",
+  "gl": 1.24,
+  "gv": 1.27,
+  "hn": "SS Lazio",
+  "p": [
+   0.3327,
+   0.3204,
+   0.3468
+  ],
+  "real": null
+ },
+ "558601": {
+  "an": "Udinese Calcio",
+  "comp": "ITA",
+  "d": "2026-09-14",
+  "gl": 2.34,
+  "gv": 0.82,
+  "hn": "FC Internazionale Milano",
+  "p": [
+   0.7202,
+   0.1899,
+   0.0899
+  ],
+  "real": null
+ },
+ "558602": {
+  "an": "Parma Calcio 1913",
+  "comp": "ITA",
+  "d": "2026-09-14",
+  "gl": 2.08,
+  "gv": 0.71,
+  "hn": "Como 1907",
+  "p": [
+   0.6945,
+   0.2153,
+   0.0903
+  ],
+  "real": null
+ },
+ "558603": {
+  "an": "AS Roma",
+  "comp": "ITA",
+  "d": "2026-09-14",
+  "gl": 0.92,
+  "gv": 1.94,
+  "hn": "Torino FC",
+  "p": [
+   0.149,
+   0.2474,
+   0.6036
+  ],
+  "real": null
+ },
+ "558604": {
+  "an": "Frosinone Calcio",
+  "comp": "ITA",
+  "d": "2026-09-12",
+  "gl": 1.41,
+  "gv": 1.28,
+  "hn": "Genoa CFC",
+  "p": [
+   0.3826,
+   0.2951,
+   0.3223
+  ],
+  "real": null
+ },
+ "558605": {
+  "an": "AC Monza",
+  "comp": "ITA",
+  "d": "2026-09-13",
+  "gl": 1.37,
+  "gv": 1.16,
+  "hn": "US Lecce",
+  "p": [
+   0.3915,
+   0.3116,
+   0.2969
+  ],
+  "real": null
+ },
+ "558607": {
+  "an": "Cagliari Calcio",
+  "comp": "ITA",
+  "d": "2026-09-12",
+  "gl": 1.9,
+  "gv": 0.89,
+  "hn": "Atalanta BC",
+  "p": [
+   0.6047,
+   0.2519,
+   0.1435
+  ],
+  "real": null
+ },
+ "558608": {
+  "an": "Juventus FC",
+  "comp": "ITA",
+  "d": "2026-09-13",
+  "gl": 0.97,
+  "gv": 2.12,
+  "hn": "US Sassuolo Calcio",
+  "p": [
+   0.1352,
+   0.2261,
+   0.6386
+  ],
+  "real": null
+ },
+ "559666": {
+  "an": "Angers SCO",
+  "comp": "FRA",
+  "d": "2026-10-10",
+  "gl": 1.52,
+  "gv": 0.92,
+  "hn": "Stade Brestois 29",
+  "p": [
+   0.5035,
+   0.2739,
+   0.2225
+  ],
+  "real": null
+ },
+ "559668": {
+  "an": "Paris FC",
+  "comp": "FRA",
+  "d": "2026-10-10",
+  "gl": 1.18,
+  "gv": 1.26,
+  "hn": "FC Lorient",
+  "p": [
+   0.3367,
+   0.2897,
+   0.3737
+  ],
+  "real": null
+ },
+ "559669": {
+  "an": "Olympique Lyonnais",
+  "comp": "FRA",
+  "d": "2026-10-09",
+  "gl": 1.46,
+  "gv": 1.16,
+  "hn": "Racing Club de Lens",
+  "p": [
+   0.4312,
+   0.2761,
+   0.2927
+  ],
+  "real": null
+ },
+ "559670": {
+  "an": "RC Strasbourg Alsace",
+  "comp": "FRA",
+  "d": "2026-10-11",
+  "gl": 1.15,
+  "gv": 1.43,
+  "hn": "OGC Nice",
+  "p": [
+   0.3,
+   0.2752,
+   0.4248
+  ],
+  "real": null
+ },
+ "559672": {
+  "an": "Le Mans FC",
+  "comp": "FRA",
+  "d": "2026-10-10",
+  "gl": 3.11,
+  "gv": 0.8,
+  "hn": "Paris Saint-Germain FC",
+  "p": [
+   0.8163,
+   0.1236,
+   0.0601
+  ],
+  "real": null
+ },
+ "559673": {
+  "an": "Toulouse FC",
+  "comp": "FRA",
+  "d": "2026-10-10",
+  "gl": 1.75,
+  "gv": 0.95,
+  "hn": "AS Monaco FC",
+  "p": [
+   0.5526,
+   0.2503,
+   0.1971
+  ],
+  "real": null
+ },
+ "559674": {
+  "an": "Le Havre AC",
+  "comp": "FRA",
+  "d": "2026-10-10",
+  "gl": 1.71,
+  "gv": 0.7,
+  "hn": "Lille OSC",
+  "p": [
+   0.6072,
+   0.248,
+   0.1448
+  ],
+  "real": null
+ },
+ "559675": {
+  "an": "Paris Saint-Germain FC",
+  "comp": "FRA",
+  "d": "2026-09-20",
+  "gl": 1.02,
+  "gv": 1.89,
+  "hn": "Olympique de Marseille",
+  "p": [
+   0.1929,
+   0.2374,
+   0.5698
+  ],
+  "real": null
+ },
+ "559676": {
+  "an": "Stade Brestois 29",
+  "comp": "FRA",
+  "d": "2026-09-20",
+  "gl": 1.38,
+  "gv": 1.57,
+  "hn": "AJ Auxerre",
+  "p": [
+   0.3323,
+   0.264,
+   0.4036
+  ],
+  "real": null
+ },
+ "559677": {
+  "an": "FC Lorient",
+  "comp": "FRA",
+  "d": "2026-09-19",
+  "gl": 1.49,
+  "gv": 1.41,
+  "hn": "Le Mans FC",
+  "p": [
+   0.3831,
+   0.2664,
+   0.3505
+  ],
+  "real": null
+ },
+ "559678": {
+  "an": "Lille OSC",
+  "comp": "FRA",
+  "d": "2026-09-20",
+  "gl": 0.91,
+  "gv": 1.39,
+  "hn": "OGC Nice",
+  "p": [
+   0.24,
+   0.2869,
+   0.473
+  ],
+  "real": null
+ },
+ "559679": {
+  "an": "RC Strasbourg Alsace",
+  "comp": "FRA",
+  "d": "2026-09-19",
+  "gl": 1.46,
+  "gv": 1.26,
+  "hn": "Paris FC",
+  "p": [
+   0.4066,
+   0.2732,
+   0.3202
+  ],
+  "real": null
+ },
+ "559680": {
+  "an": "Le Havre AC",
+  "comp": "FRA",
+  "d": "2026-09-19",
+  "gl": 1.37,
+  "gv": 0.92,
+  "hn": "Toulouse FC",
+  "p": [
+   0.4657,
+   0.2902,
+   0.2441
+  ],
+  "real": null
+ },
+ "559681": {
+  "an": "ES Troyes AC",
+  "comp": "FRA",
+  "d": "2026-09-19",
+  "gl": 1.4,
+  "gv": 1.22,
+  "hn": "Angers SCO",
+  "p": [
+   0.4002,
+   0.2772,
+   0.3227
+  ],
+  "real": null
+ },
+ "559682": {
+  "an": "Racing Club de Lens",
+  "comp": "FRA",
+  "d": "2026-09-18",
+  "gl": 1.44,
+  "gv": 1.26,
+  "hn": "AS Monaco FC",
+  "p": [
+   0.4041,
+   0.275,
+   0.3209
+  ],
+  "real": null
+ },
+ "559683": {
+  "an": "Stade Rennais FC 1901",
+  "comp": "FRA",
+  "d": "2026-09-19",
+  "gl": 1.59,
+  "gv": 1.13,
+  "hn": "Olympique Lyonnais",
+  "p": [
+   0.4723,
+   0.264,
+   0.2637
+  ],
+  "real": null
+ },
+ "559684": {
+  "an": "Toulouse FC",
+  "comp": "FRA",
+  "d": "2026-09-12",
+  "gl": 1.3,
+  "gv": 1.1,
+  "hn": "FC Lorient",
+  "p": [
+   0.4027,
+   0.2909,
+   0.3064
+  ],
+  "real": null
+ },
+ "559685": {
+  "an": "ES Troyes AC",
+  "comp": "FRA",
+  "d": "2026-09-13",
+  "gl": 2.25,
+  "gv": 0.82,
+  "hn": "Lille OSC",
+  "p": [
+   0.6783,
+   0.1983,
+   0.1233
+  ],
+  "real": null
+ },
+ "559686": {
+  "an": "Racing Club de Lens",
+  "comp": "FRA",
+  "d": "2026-09-13",
+  "gl": 1.22,
+  "gv": 1.85,
+  "hn": "Le Mans FC",
+  "p": [
+   0.2422,
+   0.2466,
+   0.5112
+  ],
+  "real": null
+ },
+ "559687": {
+  "an": "AS Monaco FC",
+  "comp": "FRA",
+  "d": "2026-09-12",
+  "gl": 1.43,
+  "gv": 1.46,
+  "hn": "RC Strasbourg Alsace",
+  "p": [
+   0.3603,
+   0.2679,
+   0.3718
+  ],
+  "real": null
+ },
+ "559688": {
+  "an": "OGC Nice",
+  "comp": "FRA",
+  "d": "2026-09-12",
+  "gl": 1.29,
+  "gv": 1.34,
+  "hn": "AJ Auxerre",
+  "p": [
+   0.3522,
+   0.2792,
+   0.3685
+  ],
+  "real": null
+ },
+ "559690": {
+  "an": "Angers SCO",
+  "comp": "FRA",
+  "d": "2026-09-12",
+  "gl": 1.23,
+  "gv": 0.91,
+  "hn": "Le Havre AC",
+  "p": [
+   0.4266,
+   0.3074,
+   0.266
+  ],
+  "real": null
+ },
+ "559691": {
+  "an": "Paris Saint-Germain FC",
+  "comp": "FRA",
+  "d": "2026-09-13",
+  "gl": 0.85,
+  "gv": 2.23,
+  "hn": "Stade Brestois 29",
+  "p": [
+   0.1234,
+   0.1981,
+   0.6785
+  ],
+  "real": null
+ },
+ "559692": {
+  "an": "Olympique Lyonnais",
+  "comp": "FRA",
+  "d": "2026-09-12",
+  "gl": 1.28,
+  "gv": 1.28,
+  "hn": "Paris FC",
+  "p": [
+   0.3557,
+   0.2824,
+   0.3619
+  ],
+  "real": null
+ },
+ "560572": {
+  "an": "Ipswich Town FC",
+  "comp": "ENG",
+  "d": "2026-09-12",
+  "gl": 2.14,
+  "gv": 0.98,
+  "hn": "Crystal Palace FC",
+  "p": [
+   0.6538,
+   0.1919,
+   0.1544
+  ],
+  "real": null
+ },
+ "560573": {
+  "an": "Fulham FC",
+  "comp": "ENG",
+  "d": "2026-09-12",
+  "gl": 2.05,
+  "gv": 0.96,
+  "hn": "Liverpool FC",
+  "p": [
+   0.6382,
+   0.2002,
+   0.1617
+  ],
+  "real": null
+ },
+ "560574": {
+  "an": "Nottingham Forest FC",
+  "comp": "ENG",
+  "d": "2026-09-12",
+  "gl": 1.6,
+  "gv": 1.14,
+  "hn": "Aston Villa FC",
+  "p": [
+   0.4859,
+   0.2447,
+   0.2693
+  ],
+  "real": null
+ },
+ "560575": {
+  "an": "Everton FC",
+  "comp": "ENG",
+  "d": "2026-09-12",
+  "gl": 1.41,
+  "gv": 1.26,
+  "hn": "Tottenham Hotspur FC",
+  "p": [
+   0.4088,
+   0.255,
+   0.3362
+  ],
+  "real": null
+ },
+ "560576": {
+  "an": "Brentford FC",
+  "comp": "ENG",
+  "d": "2026-09-12",
+  "gl": 1.55,
+  "gv": 1.27,
+  "hn": "AFC Bournemouth",
+  "p": [
+   0.4435,
+   0.2454,
+   0.3111
+  ],
+  "real": null
+ },
+ "560577": {
+  "an": "Arsenal FC",
+  "comp": "ENG",
+  "d": "2026-09-12",
+  "gl": 0.69,
+  "gv": 1.93,
+  "hn": "Sunderland AFC",
+  "p": [
+   0.1223,
+   0.2096,
+   0.6681
+  ],
+  "real": null
+ },
+ "560578": {
+  "an": "Brighton & Hove Albion FC",
+  "comp": "ENG",
+  "d": "2026-09-13",
+  "gl": 0.48,
+  "gv": 1.67,
+  "hn": "Coventry City FC",
+  "p": [
+   0.0828,
+   0.2294,
+   0.6878
+  ],
+  "real": null
+ },
+ "560579": {
+  "an": "Newcastle United FC",
+  "comp": "ENG",
+  "d": "2026-09-14",
+  "gl": 1.34,
+  "gv": 1.49,
+  "hn": "Leeds United FC",
+  "p": [
+   0.3418,
+   0.2463,
+   0.4119
+  ],
+  "real": null
+ },
+ "560580": {
+  "an": "Manchester City FC",
+  "comp": "ENG",
+  "d": "2026-09-13",
+  "gl": 1.25,
+  "gv": 1.73,
+  "hn": "Manchester United FC",
+  "p": [
+   0.2746,
+   0.2329,
+   0.4925
+  ],
+  "real": null
+ },
+ "560581": {
+  "an": "Hull City AFC",
+  "comp": "ENG",
+  "d": "2026-09-12",
+  "gl": 1.23,
+  "gv": 0.89,
+  "hn": "Chelsea FC",
+  "p": [
+   0.4097,
+   0.2857,
+   0.3045
+  ],
+  "real": null
+ },
+ "560582": {
+  "an": "Liverpool FC",
+  "comp": "ENG",
+  "d": "2026-09-20",
+  "gl": 1.35,
+  "gv": 1.55,
+  "hn": "AFC Bournemouth",
+  "p": [
+   0.3332,
+   0.2418,
+   0.425
+  ],
+  "real": null
+ },
+ "560583": {
+  "an": "Manchester United FC",
+  "comp": "ENG",
+  "d": "2026-09-20",
+  "gl": 1.28,
+  "gv": 1.58,
+  "hn": "Fulham FC",
+  "p": [
+   0.3093,
+   0.243,
+   0.4477
+  ],
+  "real": null
+ },
+ "560584": {
+  "an": "Ipswich Town FC",
+  "comp": "ENG",
+  "d": "2026-09-19",
+  "gl": 2.19,
+  "gv": 0.88,
+  "hn": "Everton FC",
+  "p": [
+   0.6856,
+   0.1839,
+   0.1305
+  ],
+  "real": null
+ },
+ "560585": {
+  "an": "Crystal Palace FC",
+  "comp": "ENG",
+  "d": "2026-09-20",
+  "gl": 1.49,
+  "gv": 1.18,
+  "hn": "Leeds United FC",
+  "p": [
+   0.449,
+   0.252,
+   0.2989
+  ],
+  "real": null
+ },
+ "560586": {
+  "an": "Arsenal FC",
+  "comp": "ENG",
+  "d": "2026-09-19",
+  "gl": 0.9,
+  "gv": 1.81,
+  "hn": "Brighton & Hove Albion FC",
+  "p": [
+   0.1791,
+   0.2248,
+   0.596
+  ],
+  "real": null
+ },
+ "560587": {
+  "an": "Aston Villa FC",
+  "comp": "ENG",
+  "d": "2026-09-19",
+  "gl": 1.39,
+  "gv": 1.49,
+  "hn": "Tottenham Hotspur FC",
+  "p": [
+   0.3519,
+   0.2447,
+   0.4035
+  ],
+  "real": null
+ },
+ "560588": {
+  "an": "Hull City AFC",
+  "comp": "ENG",
+  "d": "2026-09-19",
+  "gl": 1.29,
+  "gv": 0.86,
+  "hn": "Newcastle United FC",
+  "p": [
+   0.4252,
+   0.2833,
+   0.2914
+  ],
+  "real": null
+ },
+ "560589": {
+  "an": "Coventry City FC",
+  "comp": "ENG",
+  "d": "2026-09-19",
+  "gl": 1.79,
+  "gv": 0.42,
+  "hn": "Nottingham Forest FC",
+  "p": [
+   0.728,
+   0.2117,
+   0.0604
+  ],
+  "real": null
+ },
+ "560590": {
+  "an": "Sunderland AFC",
+  "comp": "ENG",
+  "d": "2026-09-20",
+  "gl": 2.25,
+  "gv": 0.73,
+  "hn": "Manchester City FC",
+  "p": [
+   0.7293,
+   0.1707,
+   0.1
+  ],
+  "real": null
+ },
+ "560591": {
+  "an": "Chelsea FC",
+  "comp": "ENG",
+  "d": "2026-09-18",
+  "gl": 1.59,
+  "gv": 1.37,
+  "hn": "Brentford FC",
+  "p": [
+   0.4323,
+   0.2398,
+   0.3279
+  ],
+  "real": null
+ },
+ "560592": {
+  "an": "Brighton & Hove Albion FC",
+  "comp": "ENG",
+  "d": "2026-10-10",
+  "gl": 1.19,
+  "gv": 1.37,
+  "hn": "Sunderland AFC",
+  "p": [
+   0.3261,
+   0.2632,
+   0.4107
+  ],
+  "real": null
+ },
+ "560593": {
+  "an": "Leeds United FC",
+  "comp": "ENG",
+  "d": "2026-10-10",
+  "gl": 2.34,
+  "gv": 0.65,
+  "hn": "Arsenal FC",
+  "p": [
+   0.7587,
+   0.1603,
+   0.081
+  ],
+  "real": null
+ },
+ "560595": {
+  "an": "AFC Bournemouth",
+  "comp": "ENG",
+  "d": "2026-10-10",
+  "gl": 1.62,
+  "gv": 1.35,
+  "hn": "Chelsea FC",
+  "p": [
+   0.4448,
+   0.2376,
+   0.3176
+  ],
+  "real": null
+ },
+ "560599": {
+  "an": "Fulham FC",
+  "comp": "ENG",
+  "d": "2026-10-10",
+  "gl": 1.16,
+  "gv": 1.81,
+  "hn": "Ipswich Town FC",
+  "p": [
+   0.2379,
+   0.2262,
+   0.5358
+  ],
+  "real": null
+ },
+ "564668": {
+  "an": "RC Deportivo La Coruña",
+  "comp": "ESP",
+  "d": "2026-09-13",
+  "gl": 1.21,
+  "gv": 0.97,
+  "hn": "Getafe CF",
+  "p": [
+   0.415,
+   0.3033,
+   0.2817
+  ],
+  "real": null
+ },
+ "564670": {
+  "an": "Deportivo Alavés",
+  "comp": "ESP",
+  "d": "2026-09-12",
+  "gl": 1.55,
+  "gv": 1.43,
+  "hn": "Real Racing Club de Santander",
+  "p": [
+   0.399,
+   0.2654,
+   0.3356
+  ],
+  "real": null
+ },
+ "564671": {
+  "an": "Real Betis Balompié",
+  "comp": "ESP",
+  "d": "2026-09-14",
+  "gl": 1.52,
+  "gv": 1.17,
+  "hn": "Villarreal CF",
+  "p": [
+   0.4512,
+   0.2726,
+   0.2762
+  ],
+  "real": null
+ },
+ "564672": {
+  "an": "Málaga CF",
+  "comp": "ESP",
+  "d": "2026-09-13",
+  "gl": 1.31,
+  "gv": 0.53,
+  "hn": "RC Celta de Vigo",
+  "p": [
+   0.563,
+   0.3142,
+   0.1228
+  ],
+  "real": null
+ },
+ "564673": {
+  "an": "RCD Espanyol de Barcelona",
+  "comp": "ESP",
+  "d": "2026-09-12",
+  "gl": 1.31,
+  "gv": 0.99,
+  "hn": "CA Osasuna",
+  "p": [
+   0.4391,
+   0.2957,
+   0.2652
+  ],
+  "real": null
+ },
+ "564674": {
+  "an": "Club Atlético de Madrid",
+  "comp": "ESP",
+  "d": "2026-09-13",
+  "gl": 1.05,
+  "gv": 1.23,
+  "hn": "Real Sociedad de Fútbol",
+  "p": [
+   0.2969,
+   0.3032,
+   0.3999
+  ],
+  "real": null
+ },
+ "564675": {
+  "an": "FC Barcelona",
+  "comp": "ESP",
+  "d": "2026-09-13",
+  "gl": 0.9,
+  "gv": 2.08,
+  "hn": "Levante UD",
+  "p": [
+   0.127,
+   0.2056,
+   0.6673
+  ],
+  "real": null
+ },
+ "564676": {
+  "an": "Elche CF",
+  "comp": "ESP",
+  "d": "2026-09-12",
+  "gl": 1.66,
+  "gv": 0.85,
+  "hn": "Athletic Club",
+  "p": [
+   0.5777,
+   0.2538,
+   0.1685
+  ],
+  "real": null
+ },
+ "564677": {
+  "an": "Rayo Vallecano de Madrid",
+  "comp": "ESP",
+  "d": "2026-09-12",
+  "gl": 2.63,
+  "gv": 0.6,
+  "hn": "Real Madrid CF",
+  "p": [
+   0.8258,
+   0.1282,
+   0.0461
+  ],
+  "real": null
+ },
+ "564678": {
+  "an": "RCD Espanyol de Barcelona",
+  "comp": "ESP",
+  "d": "2026-09-15",
+  "gl": 1.31,
+  "gv": 1.03,
+  "hn": "Rayo Vallecano de Madrid",
+  "p": [
+   0.4301,
+   0.2955,
+   0.2744
+  ],
+  "real": null
+ },
+ "564679": {
+  "an": "Sevilla FC",
+  "comp": "ESP",
+  "d": "2026-09-16",
+  "gl": 1.58,
+  "gv": 1.14,
+  "hn": "RC Deportivo La Coruña",
+  "p": [
+   0.4669,
+   0.2665,
+   0.2666
+  ],
+  "real": null
+ },
+ "564680": {
+  "an": "Valencia CF",
+  "comp": "ESP",
+  "d": "2026-09-15",
+  "gl": 1.37,
+  "gv": 0.91,
+  "hn": "Deportivo Alavés",
+  "p": [
+   0.4773,
+   0.2898,
+   0.2329
+  ],
+  "real": null
+ },
+ "564681": {
+  "an": "Real Madrid CF",
+  "comp": "ESP",
+  "d": "2026-09-15",
+  "gl": 0.79,
+  "gv": 2.16,
+  "hn": "Elche CF",
+  "p": [
+   0.0988,
+   0.1871,
+   0.7141
+  ],
+  "real": null
+ },
+ "564683": {
+  "an": "Villarreal CF",
+  "comp": "ESP",
+  "d": "2026-09-17",
+  "gl": 0.67,
+  "gv": 1.32,
+  "hn": "Málaga CF",
+  "p": [
+   0.1685,
+   0.2958,
+   0.5357
+  ],
+  "real": null
+ },
+ "564684": {
+  "an": "CA Osasuna",
+  "comp": "ESP",
+  "d": "2026-09-16",
+  "gl": 1.89,
+  "gv": 0.77,
+  "hn": "Club Atlético de Madrid",
+  "p": [
+   0.6597,
+   0.2191,
+   0.1212
+  ],
+  "real": null
+ },
+ "564685": {
+  "an": "Athletic Club",
+  "comp": "ESP",
+  "d": "2026-09-16",
+  "gl": 1.26,
+  "gv": 1.13,
+  "hn": "Levante UD",
+  "p": [
+   0.3858,
+   0.2954,
+   0.3187
+  ],
+  "real": null
+ },
+ "564686": {
+  "an": "Getafe CF",
+  "comp": "ESP",
+  "d": "2026-09-17",
+  "gl": 1.44,
+  "gv": 0.68,
+  "hn": "Real Betis Balompié",
+  "p": [
+   0.5653,
+   0.2812,
+   0.1535
+  ],
+  "real": null
+ },
+ "564687": {
+  "an": "Real Racing Club de Santander",
+  "comp": "ESP",
+  "d": "2026-09-16",
+  "gl": 3.65,
+  "gv": 0.78,
+  "hn": "FC Barcelona",
+  "p": [
+   0.8886,
+   0.0823,
+   0.0291
+  ],
+  "real": null
+ },
+ "564690": {
+  "an": "FC Barcelona",
+  "comp": "ESP",
+  "d": "2026-09-19",
+  "gl": 0.88,
+  "gv": 1.93,
+  "hn": "Sevilla FC",
+  "p": [
+   0.1394,
+   0.2194,
+   0.6412
+  ],
+  "real": null
+ },
+ "564691": {
+  "an": "Deportivo Alavés",
+  "comp": "ESP",
+  "d": "2026-09-19",
+  "gl": 1.39,
+  "gv": 0.93,
+  "hn": "Athletic Club",
+  "p": [
+   0.4779,
+   0.2885,
+   0.2336
+  ],
+  "real": null
+ },
+ "564692": {
+  "an": "Elche CF",
+  "comp": "ESP",
+  "d": "2026-09-18",
+  "gl": 1.55,
+  "gv": 0.94,
+  "hn": "RCD Espanyol de Barcelona",
+  "p": [
+   0.521,
+   0.2693,
+   0.2098
+  ],
+  "real": null
+ },
+ "564693": {
+  "an": "Rayo Vallecano de Madrid",
+  "comp": "ESP",
+  "d": "2026-09-19",
+  "gl": 1.38,
+  "gv": 0.99,
+  "hn": "CA Osasuna",
+  "p": [
+   0.4567,
+   0.2913,
+   0.2519
+  ],
+  "real": null
+ },
+ "564694": {
+  "an": "Real Racing Club de Santander",
+  "comp": "ESP",
+  "d": "2026-09-19",
+  "gl": 1.72,
+  "gv": 1.15,
+  "hn": "RC Celta de Vigo",
+  "p": [
+   0.5069,
+   0.2574,
+   0.2357
+  ],
+  "real": null
+ },
+ "564697": {
+  "an": "Málaga CF",
+  "comp": "ESP",
+  "d": "2026-09-20",
+  "gl": 1.13,
+  "gv": 0.5,
+  "hn": "Getafe CF",
+  "p": [
+   0.5117,
+   0.3568,
+   0.1315
+  ],
+  "real": null
+ },
+ "565794": {
+  "an": "VfB Stuttgart",
+  "comp": "GER",
+  "d": "2026-09-12",
+  "gl": 1.53,
+  "gv": 1.73,
+  "hn": "TSG 1899 Hoffenheim",
+  "p": [
+   0.3252,
+   0.2597,
+   0.4151
+  ],
+  "real": null
+ },
+ "565795": {
+  "an": "SC Paderborn 07",
+  "comp": "GER",
+  "d": "2026-09-12",
+  "gl": 2.23,
+  "gv": 0.39,
+  "hn": "Borussia Dortmund",
+  "p": [
+   0.7597,
+   0.2012,
+   0.0391
+  ],
+  "real": null
+ },
+ "565796": {
+  "an": "Bayer 04 Leverkusen",
+  "comp": "GER",
+  "d": "2026-09-12",
+  "gl": 1.13,
+  "gv": 1.6,
+  "hn": "FC Augsburg",
+  "p": [
+   0.2562,
+   0.273,
+   0.4708
+  ],
+  "real": null
+ },
+ "565798": {
+  "an": "SV Werder Bremen",
+  "comp": "GER",
+  "d": "2026-09-12",
+  "gl": 1.47,
+  "gv": 1.28,
+  "hn": "1. FC Köln",
+  "p": [
+   0.4019,
+   0.2809,
+   0.3173
+  ],
+  "real": null
+ },
+ "565799": {
+  "an": "Hamburger SV",
+  "comp": "GER",
+  "d": "2026-09-13",
+  "gl": 2.06,
+  "gv": 0.86,
+  "hn": "RB Leipzig",
+  "p": [
+   0.6464,
+   0.2195,
+   0.1341
+  ],
+  "real": null
+ },
+ "565800": {
+  "an": "FC Bayern München",
+  "comp": "GER",
+  "d": "2026-09-13",
+  "gl": 1.7,
+  "gv": 3.54,
+  "hn": "SV 07 Elversberg",
+  "p": [
+   0.1327,
+   0.1386,
+   0.7288
+  ],
+  "real": null
+ },
+ "565801": {
+  "an": "Eintracht Frankfurt",
+  "comp": "GER",
+  "d": "2026-09-12",
+  "gl": 1.69,
+  "gv": 1.17,
+  "hn": "1. FSV Mainz 05",
+  "p": [
+   0.483,
+   0.2641,
+   0.2529
+  ],
+  "real": null
+ },
+ "565802": {
+  "an": "Borussia Mönchengladbach",
+  "comp": "GER",
+  "d": "2026-09-12",
+  "gl": 1.8,
+  "gv": 1.16,
+  "hn": "SC Freiburg",
+  "p": [
+   0.5124,
+   0.2538,
+   0.2338
+  ],
+  "real": null
+ },
+ "565803": {
+  "an": "TSG 1899 Hoffenheim",
+  "comp": "GER",
+  "d": "2026-09-20",
+  "gl": 0.67,
+  "gv": 1.39,
+  "hn": "SC Paderborn 07",
+  "p": [
+   0.1536,
+   0.3338,
+   0.5126
+  ],
+  "real": null
+ },
+ "565804": {
+  "an": "1. FC Union Berlin",
+  "comp": "GER",
+  "d": "2026-09-18",
+  "gl": 4.1,
+  "gv": 0.59,
+  "hn": "FC Bayern München",
+  "p": [
+   0.9083,
+   0.0688,
+   0.0229
+  ],
+  "real": null
+ },
+ "565805": {
+  "an": "SV 07 Elversberg",
+  "comp": "GER",
+  "d": "2026-09-20",
+  "gl": 1.47,
+  "gv": 2.3,
+  "hn": "FC Schalke 04",
+  "p": [
+   0.2613,
+   0.2254,
+   0.5132
+  ],
+  "real": null
+ },
+ "565806": {
+  "an": "Borussia Dortmund",
+  "comp": "GER",
+  "d": "2026-09-19",
+  "gl": 1.48,
+  "gv": 1.57,
+  "hn": "VfB Stuttgart",
+  "p": [
+   0.3458,
+   0.2683,
+   0.386
+  ],
+  "real": null
+ },
+ "565807": {
+  "an": "RB Leipzig",
+  "comp": "GER",
+  "d": "2026-09-20",
+  "gl": 1.74,
+  "gv": 1.14,
+  "hn": "Bayer 04 Leverkusen",
+  "p": [
+   0.5011,
+   0.2617,
+   0.2372
+  ],
+  "real": null
+ },
+ "565808": {
+  "an": "1. FC Köln",
+  "comp": "GER",
+  "d": "2026-09-19",
+  "gl": 1.4,
+  "gv": 1.24,
+  "hn": "Hamburger SV",
+  "p": [
+   0.3945,
+   0.2877,
+   0.3179
+  ],
+  "real": null
+ },
+ "565809": {
+  "an": "1. FSV Mainz 05",
+  "comp": "GER",
+  "d": "2026-09-19",
+  "gl": 1.32,
+  "gv": 1.42,
+  "hn": "Borussia Mönchengladbach",
+  "p": [
+   0.3383,
+   0.2784,
+   0.3833
+  ],
+  "real": null
+ },
+ "565810": {
+  "an": "FC Augsburg",
+  "comp": "GER",
+  "d": "2026-09-19",
+  "gl": 1.34,
+  "gv": 1.31,
+  "hn": "SV Werder Bremen",
+  "p": [
+   0.363,
+   0.2871,
+   0.3499
+  ],
+  "real": null
+ },
+ "565811": {
+  "an": "SC Freiburg",
+  "comp": "GER",
+  "d": "2026-09-19",
+  "gl": 1.55,
+  "gv": 1.42,
+  "hn": "Eintracht Frankfurt",
+  "p": [
+   0.3919,
+   0.2708,
+   0.3373
+  ],
+  "real": null
+ },
+ "565812": {
+  "an": "Bayer 04 Leverkusen",
+  "comp": "GER",
+  "d": "2026-10-10",
+  "gl": 1.18,
+  "gv": 1.45,
+  "hn": "1. FSV Mainz 05",
+  "p": [
+   0.2961,
+   0.2854,
+   0.4185
+  ],
+  "real": null
+ },
+ "565813": {
+  "an": "VfB Stuttgart",
+  "comp": "GER",
+  "d": "2026-10-10",
+  "gl": 0.56,
+  "gv": 1.63,
+  "hn": "SC Paderborn 07",
+  "p": [
+   0.1034,
+   0.2904,
+   0.6062
+  ],
+  "real": null
+ },
+ "565815": {
+  "an": "Eintracht Frankfurt",
+  "comp": "GER",
+  "d": "2026-10-10",
+  "gl": 2.0,
+  "gv": 1.15,
+  "hn": "RB Leipzig",
+  "p": [
+   0.5607,
+   0.2388,
+   0.2006
+  ],
+  "real": null
+ },
+ "565817": {
+  "an": "SV 07 Elversberg",
+  "comp": "GER",
+  "d": "2026-10-10",
+  "gl": 1.7,
+  "gv": 2.87,
+  "hn": "1. FC Union Berlin",
+  "p": [
+   0.246,
+   0.2057,
+   0.5483
+  ],
+  "real": null
+ },
+ "565818": {
+  "an": "Hamburger SV",
+  "comp": "GER",
+  "d": "2026-10-10",
+  "gl": 1.92,
+  "gv": 1.01,
+  "hn": "TSG 1899 Hoffenheim",
+  "p": [
+   0.5765,
+   0.2418,
+   0.1817
+  ],
+  "real": null
+ },
+ "565819": {
+  "an": "FC Bayern München",
+  "comp": "GER",
+  "d": "2026-10-10",
+  "gl": 0.84,
+  "gv": 2.66,
+  "hn": "FC Augsburg",
+  "p": [
+   0.0829,
+   0.1577,
+   0.7594
+  ],
+  "real": null
+ },
+ "565820": {
+  "an": "SV Werder Bremen",
+  "comp": "GER",
+  "d": "2026-10-09",
+  "gl": 2.37,
+  "gv": 0.8,
+  "hn": "Borussia Dortmund",
+  "p": [
+   0.7199,
+   0.1824,
+   0.0977
+  ],
+  "real": null
+ },
+ "575341": {
+  "an": "Sporting Clube de Portugal",
+  "comp": "UCL",
+  "d": "2026-10-13",
+  "gl": 1.34,
+  "gv": 1.45,
+  "hn": "Racing Club de Lens",
+  "p": [
+   0.3535,
+   0.2204,
+   0.426
+  ],
+  "real": null
+ },
+ "575342": {
+  "an": "SK Slavia Praha",
+  "comp": "UCL",
+  "d": "2026-10-13",
+  "gl": 1.06,
+  "gv": 1.65,
+  "hn": "Sabah FK",
+  "p": [
+   0.2382,
+   0.2123,
+   0.5495
+  ],
+  "real": null
+ },
+ "575343": {
+  "an": "Club Brugge KV",
+  "comp": "UCL",
+  "d": "2026-10-13",
+  "gl": 2.38,
+  "gv": 0.96,
+  "hn": "FC Internazionale Milano",
+  "p": [
+   0.7423,
+   0.1441,
+   0.1135
+  ],
+  "real": null
+ },
+ "575344": {
+  "an": "FC Barcelona",
+  "comp": "UCL",
+  "d": "2026-10-13",
+  "gl": 1.35,
+  "gv": 1.76,
+  "hn": "Galatasaray SK",
+  "p": [
+   0.3073,
+   0.2031,
+   0.4896
+  ],
+  "real": null
+ },
+ "575345": {
+  "an": "Manchester United FC",
+  "comp": "UCL",
+  "d": "2026-10-13",
+  "gl": 1.46,
+  "gv": 1.3,
+  "hn": "Club Atlético de Madrid",
+  "p": [
+   0.4322,
+   0.2246,
+   0.3432
+  ],
+  "real": null
+ },
+ "575346": {
+  "an": "Lille OSC",
+  "comp": "UCL",
+  "d": "2026-10-13",
+  "gl": 2.04,
+  "gv": 0.59,
+  "hn": "Arsenal FC",
+  "p": [
+   0.7702,
+   0.1519,
+   0.0779
+  ],
+  "real": null
+ },
+ "575347": {
+  "an": "FC Bayern München",
+  "comp": "UCL",
+  "d": "2026-10-13",
+  "gl": 0.96,
+  "gv": 2.72,
+  "hn": "Viking FK",
+  "p": [
+   0.0873,
+   0.1203,
+   0.7924
+  ],
+  "real": null
+ },
+ "575348": {
+  "an": "PSV",
+  "comp": "UCL",
+  "d": "2026-10-13",
+  "gl": 1.71,
+  "gv": 1.68,
+  "hn": "RB Leipzig",
+  "p": [
+   0.3954,
+   0.1948,
+   0.4098
+  ],
+  "real": null
+ },
+ "575349": {
+  "an": "SSC Napoli",
+  "comp": "UCL",
+  "d": "2026-10-13",
+  "gl": 1.44,
+  "gv": 1.31,
+  "hn": "Villarreal CF",
+  "p": [
+   0.4179,
+   0.2238,
+   0.3583
+  ],
+  "real": null
+ },
+ "575351": {
+  "an": "Como 1907",
+  "comp": "UCL",
+  "d": "2026-10-14",
+  "gl": 1.33,
+  "gv": 1.38,
+  "hn": "Feyenoord Rotterdam",
+  "p": [
+   0.3795,
+   0.2227,
+   0.3977
+  ],
+  "real": null
+ },
+ "575352": {
+  "an": "Real Madrid CF",
+  "comp": "UCL",
+  "d": "2026-10-14",
+  "gl": 1.25,
+  "gv": 1.41,
+  "hn": "AS Roma",
+  "p": [
+   0.3418,
+   0.2296,
+   0.4286
+  ],
+  "real": null
+ },
+ "575353": {
+  "an": "Paris Saint-Germain FC",
+  "comp": "UCL",
+  "d": "2026-10-14",
+  "gl": 1.69,
+  "gv": 1.13,
+  "hn": "Manchester City FC",
+  "p": [
+   0.5379,
+   0.2101,
+   0.252
+  ],
+  "real": null
+ },
+ "575354": {
+  "an": "Borussia Dortmund",
+  "comp": "UCL",
+  "d": "2026-10-14",
+  "gl": 1.58,
+  "gv": 1.47,
+  "hn": "FK Bodø/Glimt",
+  "p": [
+   0.4211,
+   0.2142,
+   0.3647
+  ],
+  "real": null
+ },
+ "575355": {
+  "an": "Fenerbahçe SK",
+  "comp": "UCL",
+  "d": "2026-10-14",
+  "gl": 1.7,
+  "gv": 1.03,
+  "hn": "Aston Villa FC",
+  "p": [
+   0.5579,
+   0.2016,
+   0.2405
+  ],
+  "real": null
+ },
+ "575356": {
+  "an": "FC Porto",
+  "comp": "UCL",
+  "d": "2026-10-14",
+  "gl": 1.12,
+  "gv": 1.35,
+  "hn": "Real Betis Balompié",
+  "p": [
+   0.3181,
+   0.2347,
+   0.4472
+  ],
+  "real": null
+ },
+ "575357": {
+  "an": "PAE AEK",
+  "comp": "UCL",
+  "d": "2026-10-14",
+  "gl": 1.42,
+  "gv": 0.82,
+  "hn": "FK Shakhtar Donetsk",
+  "p": [
+   0.5545,
+   0.2352,
+   0.2103
+  ],
+  "real": null
+ },
+ "575358": {
+  "an": "VfB Stuttgart",
+  "comp": "UCL",
+  "d": "2026-10-14",
+  "gl": 1.39,
+  "gv": 2.07,
+  "hn": "ŠK Slovan Bratislava",
+  "p": [
+   0.2759,
+   0.1797,
+   0.5444
+  ],
+  "real": null
+ },
+ "575359": {
+  "an": "Borussia Dortmund",
+  "comp": "UCL",
+  "d": "2026-10-20",
+  "gl": 0.83,
+  "gv": 2.65,
+  "hn": "Sabah FK",
+  "p": [
+   0.0967,
+   0.127,
+   0.7763
+  ],
+  "real": null
+ },
+ "575360": {
+  "an": "SK Slavia Praha",
+  "comp": "UCL",
+  "d": "2026-10-20",
+  "gl": 1.75,
+  "gv": 0.95,
+  "hn": "Fenerbahçe SK",
+  "p": [
+   0.603,
+   0.2026,
+   0.1945
+  ],
+  "real": null
+ },
+ "575361": {
+  "an": "PAE AEK",
+  "comp": "UCL",
+  "d": "2026-10-20",
+  "gl": 2.49,
+  "gv": 0.54,
+  "hn": "Manchester City FC",
+  "p": [
+   0.8187,
+   0.1148,
+   0.0666
+  ],
+  "real": null
+ },
+ "575362": {
+  "an": "Club Atlético de Madrid",
+  "comp": "UCL",
+  "d": "2026-10-20",
+  "gl": 1.74,
+  "gv": 1.41,
+  "hn": "VfB Stuttgart",
+  "p": [
+   0.4824,
+   0.2044,
+   0.3132
+  ],
+  "real": null
+ },
+ "575363": {
+  "an": "Villarreal CF",
+  "comp": "UCL",
+  "d": "2026-10-20",
+  "gl": 2.26,
+  "gv": 0.93,
+  "hn": "Liverpool FC",
+  "p": [
+   0.722,
+   0.154,
+   0.124
+  ],
+  "real": null
+ },
+ "575364": {
+  "an": "ŠK Slovan Bratislava",
+  "comp": "UCL",
+  "d": "2026-10-20",
+  "gl": 2.47,
+  "gv": 0.81,
+  "hn": "AS Roma",
+  "p": [
+   0.7614,
+   0.134,
+   0.1046
+  ],
+  "real": null
+ },
+ "575365": {
+  "an": "PSV",
+  "comp": "UCL",
+  "d": "2026-10-20",
+  "gl": 1.63,
+  "gv": 1.14,
+  "hn": "FC Porto",
+  "p": [
+   0.5222,
+   0.2159,
+   0.2619
+  ],
+  "real": null
+ }
+}
