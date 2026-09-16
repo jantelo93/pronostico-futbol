@@ -2056,6 +2056,34 @@
   ],
   "real": null
  },
+ "564704": {
+  "an": "Sevilla FC",
+  "comp": "ESP",
+  "d": "2026-10-12",
+  "gl": 1.4,
+  "gv": 1.13,
+  "hn": "Levante UD",
+  "p": [
+   0.4323,
+   0.2827,
+   0.2851
+  ],
+  "real": null
+ },
+ "564705": {
+  "an": "Valencia CF",
+  "comp": "ESP",
+  "d": "2026-10-11",
+  "gl": 1.53,
+  "gv": 1.22,
+  "hn": "Real Racing Club de Santander",
+  "p": [
+   0.4414,
+   0.271,
+   0.2877
+  ],
+  "real": null
+ },
  "564706": {
   "an": "RCD Espanyol de Barcelona",
   "comp": "ESP",
