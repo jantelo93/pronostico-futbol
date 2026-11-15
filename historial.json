@@ -6801,6 +6801,34 @@
   ],
   "real": null
  },
+ "564770": {
+  "an": "RCD Espanyol de Barcelona",
+  "comp": "ESP",
+  "d": "2026-12-04",
+  "gl": 1.21,
+  "gv": 0.91,
+  "hn": "Deportivo Alavés",
+  "p": [
+   0.4272,
+   0.3124,
+   0.2604
+  ],
+  "real": null
+ },
+ "564772": {
+  "an": "RC Deportivo La Coruña",
+  "comp": "ESP",
+  "d": "2026-12-05",
+  "gl": 1.41,
+  "gv": 1.41,
+  "hn": "Real Racing Club de Santander",
+  "p": [
+   0.377,
+   0.2649,
+   0.358
+  ],
+  "real": null
+ },
  "564855": {
   "an": "Real Madrid CF",
   "comp": "ESP",
