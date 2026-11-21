@@ -5035,6 +5035,20 @@
   ],
   "real": null
  },
+ "560669": {
+  "an": "Leeds United FC",
+  "comp": "ENG",
+  "d": "2026-12-02",
+  "gl": 2.05,
+  "gv": 0.83,
+  "hn": "Manchester City FC",
+  "p": [
+   0.6701,
+   0.195,
+   0.1349
+  ],
+  "real": null
+ },
  "564668": {
   "an": "RC Deportivo La Coruña",
   "comp": "ESP",
